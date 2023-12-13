@@ -46,7 +46,7 @@ export const Listing = () => {
       <div className="sellers flex">
         <div className="topSellers">
           <div className="heading flex">
-            <h3>Top Sellers</h3>
+            <h3>Leading Sellers</h3>
             <button className="btn flex">
               See All <BsArrowRightShort className="icon" />
             </button>
@@ -88,10 +88,10 @@ export const Listing = () => {
             </div>
             <div className="cardText">
                 <span>
-                  76.56 Books sold <br />
+                  34.58 Books sold <br />
                   <small>
-                    34 Sellers
-                    <span className="date">30 Days</span>
+                    22 Sellers
+                    <span className="date">9 Days</span>
                   </small>
                 </span>
             </div>
