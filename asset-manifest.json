@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/books-landing-page/static/css/main.07ca3776.css",
+    "main.js": "/books-landing-page/static/js/main.846c4f7c.js",
+    "static/js/787.4dd3f14b.chunk.js": "/books-landing-page/static/js/787.4dd3f14b.chunk.js",
+    "static/media/185096 (540p).mp4": "/books-landing-page/static/media/185096 (540p).4569c463eb5be80784ea.mp4",
+    "static/media/user4.jpeg": "/books-landing-page/static/media/user4.9d7935311bcd564caa07.jpeg",
+    "static/media/user.jpeg": "/books-landing-page/static/media/user.bf6df20ca9db623c8063.jpeg",
+    "static/media/user3.jpeg": "/books-landing-page/static/media/user3.8bc290040f4c997f42a1.jpeg",
+    "static/media/user5.jpeg": "/books-landing-page/static/media/user5.eed88de28844bb143186.jpeg",
+    "static/media/user2.jpeg": "/books-landing-page/static/media/user2.5840455df3203a6db7a1.jpeg",
+    "static/media/pexels-pixabay-256450.png": "/books-landing-page/static/media/pexels-pixabay-256450.4a81837dca500b500b63.png",
+    "static/media/book5.png": "/books-landing-page/static/media/book5.4e422898450f25c57537.png",
+    "static/media/book2.png": "/books-landing-page/static/media/book2.b1a56980a3c7631935c9.png",
+    "static/media/book3.png": "/books-landing-page/static/media/book3.b0d37ce008e83aa49c90.png",
+    "static/media/book4.png": "/books-landing-page/static/media/book4.df75a0f37675b6be244b.png",
+    "static/media/book-4986.svg": "/books-landing-page/static/media/book-4986.6b7a65a538a50fb39ac2e7990c94361b.svg",
+    "index.html": "/books-landing-page/index.html",
+    "main.07ca3776.css.map": "/books-landing-page/static/css/main.07ca3776.css.map",
+    "main.846c4f7c.js.map": "/books-landing-page/static/js/main.846c4f7c.js.map",
+    "787.4dd3f14b.chunk.js.map": "/books-landing-page/static/js/787.4dd3f14b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.07ca3776.css",
+    "static/js/main.846c4f7c.js"
+  ]
+}
